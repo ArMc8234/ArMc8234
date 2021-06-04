@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Aaron Mckoy
 
+I am a web developer with a background in Life Sciences and a passion for learning!
+
 - 🔭 I’m currently working on a freelance website for church based in Norfolk, Virginia
 - 🌱 I’m currently deepening my knowledge of Javascript, objected-oriented programming, and OWASP's top ten security vulnerabilities! 
 - 💬 Ask me about Organ Donation!
